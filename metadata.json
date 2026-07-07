@@ -1,0 +1,6 @@
+{
+  "name": "Persian Legal Services Portfolio",
+  "description": "A world-class Persian Farsi Lawyer and Legal Services portfolio demo featuring custom RTL theme, light and dark modes, interactive legal sections, and a smart Farsi-speaking AI Legal Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
